@@ -1,6 +1,6 @@
 # Wireless Automated Key-Release System
 
-## Demonstration Video:
+## Demonstration Video
 https://www.youtube.com/watch?v=V6xTp-4p8c4
 
 ## Overview
