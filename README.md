@@ -8,6 +8,8 @@ This project is a custom automation systems that combines 3D modeling, embedded 
 
 Using an http request, you can control preset movements of the device to release keys remotely.
 
+See Assembly Guide PDF file for construction instrucions.
+
 ## Hardware
 1.	Door x 1 [3D Printed]
 2.	GuideSleeve x 1 [3D Printed]
